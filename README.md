@@ -2,7 +2,11 @@
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
-#程序员 #java #毕业设计 #景区旅游系统 #springboot #课程设计 #编程 #layui #mybatis #vue #源代码
+**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128651410](https://blog.csdn.net/2303_76227485/article/details/128651410)**
+
+**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+
+**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于Springboot+vue的景区旅游系统(源代码+数据库)
 
